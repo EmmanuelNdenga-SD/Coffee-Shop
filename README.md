@@ -11,9 +11,9 @@
 
 #Setup
 
-1.Fork and  Clone the repository:
+1. Fork and Clone the repository:
 
--git clone git@github.com:<your-username>/coffee-shop-challenge.git
+-git clone the project on your machine.
 -cd coffee-shop-challenge
 
 2. Set up the Python environment:
